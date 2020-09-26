@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Header styling start*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +49,9 @@ a {
 p {
     font-size: 16px;
 }
+/* header styling end*/
 
+/*hero-jumbotron styling start*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +60,8 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*hero-jumbotron styling end*/
+/* benefits box start*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -133,7 +136,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* benefit box end*/
+/*start of services offered section*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,7 +191,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*end of services offered section*/
+/* footer styling start*/
 .footer {
     padding: 30px;
     clear: both;
@@ -198,3 +203,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/*footer styling end*/
